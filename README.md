@@ -1,3 +1,7 @@
+This repository contains localization keys and documentation only. It does not contain the source code of MDWS.
+## License
+Localization keys and documentation in this repository may be used and contributed to for MDWS localization and documentation purposes.
+This repository does not contain or license the source code, models, textures, or other assets of MoreDifficultWitherStorm.
 ## 前置与署名
 
 本模组是 Cracker's Wither Storm Mod 的非官方附属模组，需要安装 1.20.1-4.2.1 版本的前置模组。本项目与 Cracker's Wither Storm Mod 开发团队没有隶属或官方认可关系，也不包含或重新授权前置模组及其资源。
