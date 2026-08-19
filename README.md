@@ -4,14 +4,21 @@ Localization keys and documentation in this repository may be used and contribut
 This repository does not contain or license the source code, models, textures, or other assets of MoreDifficultWitherStorm.
 ## 前置与署名
 
-本模组是 Cracker's Wither Storm Mod 的非官方附属模组，需要安装 1.20.1-4.2.1 版本的前置模组。本项目与 Cracker's Wither Storm Mod 开发团队没有隶属或官方认可关系，也不包含或重新授权前置模组及其资源。
+本模组是 Cracker's Wither Storm Mod 的非官方附属模组，需要安装适用于 Minecraft 1.20.1 的 Cracker's Wither Storm Mod 4.2.1。
 
-Cracker's Wither Storm Mod 由 nonamecrackers2 创作，开发团队成员包括 Nazaru 和 McFella。请从[官方 CurseForge 页面](https://www.curseforge.com/minecraft/mc-mods/crackers-wither-storm-mod)下载前置模组。
+本项目与 Cracker's Wither Storm Mod 及其开发团队没有隶属、合作或官方认可关系，也不包含、分发或重新授权前置模组及其资源。
+
+Cracker's Wither Storm Mod 由 nonamecrackers2 创作。请从[官方 CurseForge 页面](https://www.curseforge.com/minecraft/mc-mods/crackers-wither-storm-mod)下载前置模组。
 
 ## 模组特色
 
-MoreDifficultWitherStorm 的目标不是简单提高数值，而是围绕“凋灵风暴逃生挑战”做一套更像模式化玩法的附属内容：玩家可以在创建世界或多人房间中选择挑战规则，用不同条件换取更高的风暴点数，并面对更危险、更有阶段感的凋灵风暴。
+MoreDifficultWitherStorm 是一个围绕 Cracker's Wither Storm Mod 扩展玩法的附属模组。
 
+本模组并不只是简单提高凋灵风暴的生命值、伤害等数值，而是通过新的挑战规则、阶段机制和特殊玩法扩展凋灵风暴的完整游戏体验。
+
+玩家可以在创建世界或多人游戏中选择不同的挑战条件，通过承担额外风险获得更高的风暴点数，并面对更加危险、具有更明显阶段变化的凋灵风暴。
+
+除此之外，本模组也在逐步加入不同于传统逃生玩法的扩展内容，例如让玩家以凋灵风暴的形态进行游戏，并体验成长、吞噬、牵引光束、副首攻击等与凋灵风暴相关的能力。
 ### 风暴逃生挑战
 
 - 创建新世界时可以选择“风暴逃生”，进入专门的挑战规则面板。
