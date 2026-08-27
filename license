@@ -9,8 +9,6 @@ No permission is granted to copy, modify, redistribute, repackage, or use these 
 Only the original localization files authored for this project and located in the following directories are licensed under the **MIT License**:
 
 - `src/main/resources/assets/mdws/lang/`
-- `src/main/resources/assets/witherstormmod/lang/`
-- `src/main/resources/assets/walkers/lang/`
 
 These localization files may be used, modified, and redistributed under the terms of the MIT License. A copy of that license is provided in `LICENSE-LANG.md`.
 
